@@ -34,7 +34,7 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl ">
-            I'M DECHO, FRONTEND DEVELOPERS
+            I&apos;IM DECHO, FRONTEND DEVELOPERS
           </p>
 
           <a href="#about">
